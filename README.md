@@ -4,4 +4,4 @@ This is a quick diagram I threw together as a cleaned-up version of the pen draw
 
 The diagram was created using Inkscape, and the Inkscape .svg is provided. 
 
-![peng_analysis_diagram.png]
+![](peng_analysis_diagram.png)
